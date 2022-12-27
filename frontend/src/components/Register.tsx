@@ -27,7 +27,7 @@ function Register() {
   };
   return (
     <section className="bg-slate-100 max-w-[500px] mx-auto my-10 p-5 rounded-lg">
-      <h2 className="text-2xl text-center mb-10">Create a new account</h2>
+      <h2 className="text-2xl text-center mb-10">Create new account</h2>
       <form className="flex flex-col gap-2" onSubmit={handleFormSubmit}>
         <div className="bg-white rounded-lg">
           <input
